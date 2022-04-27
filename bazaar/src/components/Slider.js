@@ -1,7 +1,6 @@
 import { Carousel, Col, Row, Image } from 'react-bootstrap'
 import axiosAPI from "../axiosAPI";
 import React, { useState, useEffect } from 'react';
-import SliderBanner1 from '../static/images/offers/offer1.jpg';
 
 
 const Slider = () => {
